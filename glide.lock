@@ -1,0 +1,6 @@
+hash: b316d60fd0a8d2d73c06d9082330735296e9d89cda1a7f04b3deae6e52f5e42c
+updated: 2017-11-28T22:13:46.975669446+08:00
+imports:
+- name: github.com/orcaman/concurrent-map
+  version: d4c23bd0e01134806215ffe65ba3fd22ec6721f7
+testImports: []

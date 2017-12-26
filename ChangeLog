@@ -1,0 +1,15 @@
+2017-11-29
+version: 0.1.0
+1. support get/watch
+2017-11-30
+version: 0.1.2
+1. support set role
+2. support RawGet for proxy
+3. support CachedCount
+2017-12-01
+version: 0.1.4
+1. support SetMissCache
+2017-12-05
+version: 0.1.5
+1. fixbug for fail when watch more than once on same item
+2. fixbug for different token on same item

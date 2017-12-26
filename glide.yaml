@@ -1,0 +1,3 @@
+package: guldan-go
+import:
+- package: github.com/orcaman/concurrent-map
